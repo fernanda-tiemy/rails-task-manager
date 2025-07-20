@@ -1,0 +1,17 @@
+.btn-add-new-task{
+  margin: 0 0 0 12px;
+  display: flex;
+  border: 1px solid #4c7f63;
+  border-radius: 2px;
+  width: 150px;
+  padding: 5px;
+  justify-content: center;
+  text-decoration: none;
+  background-color: #4c7f63;
+}
+
+.btn-add-new-task:hover,
+.btn-add-new-task:visited,
+.btn-add-new-task:active{
+  background-color: #2d4d3b;
+}
